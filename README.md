@@ -1,4 +1,4 @@
-#### teensy 3.6 audio display project
+####Teensy 3.6 audio display project
 
 I'd like to make a pcb to house my teensy 3.6, the sgtl5000 audioboard and an ILI9341 lcd display. 
 
@@ -9,3 +9,6 @@ Fritzing seems to be my easiest option to build a pcb. Maybe later I will check 
 My first step is to build svg files for breadboard view, schematic view and pcb view for fritzing. This is my first pcb project.
 
 ![teensy breadboard schematic for fritzing](https://github.com/newdigate/teensy-3.6/blob/master/fritzing/teensy3-6.png?raw=true "teensy breadboard schematic for fritzing")
+
+### About Teensy:
+Teensy is an awesome microcontroller development kit from pjrc.com http://www.pjrc.com/teensy/index.html
