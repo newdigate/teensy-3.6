@@ -1,6 +1,6 @@
-#### teensy 3.6, audio and lcd display pcb project
+#### teensy 3.6 audio display project
 
-I'd like to make a pcb to house my teensy 3.6, the sgtl5000 audioboard and an lcd display. 
+I'd like to make a pcb to house my teensy 3.6, the sgtl5000 audioboard and an ILI9341 lcd display. 
 
 Currently I've wired the three components together using breadboard and jumper wires. Although this does work intermittently, the digital audio connection (i2s) is very fragile and mostly results in heavy digital distorion. 
 
