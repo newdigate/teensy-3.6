@@ -8,7 +8,9 @@ Fritzing seems to be my easiest option to build a pcb. Maybe later I will check 
 
 My first step is to build svg files for breadboard view, schematic view and pcb view for fritzing. This is my first pcb project.
 
-![teensy breadboard schematic for fritzing](https://github.com/newdigate/teensy-3.6/blob/master/fritzing/teensy3-6.png?raw=true "teensy breadboard schematic for fritzing")
+![teensy breadboard schematic for fritzing](https://github.com/newdigate/teensy-3.6/blob/master/fritzing/teensy3-6.png?raw=true "teensy 3.6 breadboard schematic for fritzing")
+
+![teensy schematic for fritzing](https://github.com/newdigate/teensy-3.6/blob/master/fritzing/Teensy3_6_schematic.png?raw=true "teensy 3.6 schematic for fritzing")
 
 ### About Teensy:
 Teensy is an awesome microcontroller development kit from pjrc.com http://www.pjrc.com/teensy/index.html
