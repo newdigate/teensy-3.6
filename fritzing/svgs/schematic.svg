@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg x="0in" y="0in" width="1.1in" height="2.5in" viewBox="0 0 129 266" xmlns="http://www.w3.org/2000/svg">
+<svg x="0in" y="0in" width="1.79166in" height="3.69444in" viewBox="0 0 129 266" xmlns="http://www.w3.org/2000/svg">
   <rect x="14.85" y="14.85" stroke-width="0.9" stroke="#000000" stroke-linecap="round" width="99" class="interior rect" height="236.44" fill="#FFFFFF"/>
   <g transform="matrix(1, 0, 0, 1, 49.399998, 0)">
     <line y2="36" x1="64.45" x2="78.85" stroke-width="0.699999" stroke="#787878" stroke-linecap="round" id="connector1pin" class="pin" fill="none" y1="36"/>
