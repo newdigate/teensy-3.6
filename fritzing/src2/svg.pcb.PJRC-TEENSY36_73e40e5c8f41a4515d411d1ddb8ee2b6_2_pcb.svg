@@ -5,133 +5,133 @@
         <referenceFile >TEENSY36_pcb.svg</referenceFile>
     </desc>
     <!--path  fill="none" stroke-miterlimit="10" stroke-width="0.65349483" id="path3644" d="m 1.0826219,0.24852665 0,49.05550735 171.4653481,0 1e-5,-49.05550735 -171.4653581,0 z" style="stroke-miterlimit:10" gorn="0.1" stroke="#ffffff"/-->
-    <g id="copper1" gorn="0.3">
-        <g id="copper0" gorn="0.2">
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector34pin" gorn="0.2.0" stroke="#f7bd13" cx="97.458359" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector35pin" gorn="0.2.1" stroke="#f7bd13" cx="90.259354" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector36pin" gorn="0.2.2" stroke="#f7bd13" cx="83.059464" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="75.859459" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="68.660461" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="61.458462" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="54.260468" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="47.05957" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="39.859566" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="32.660564" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="25.459568" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="18.259567" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="11.059666" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="3.8596456" cy="3.0957708"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="11.059666" cy="10.467576"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="32.666565" cy="10.467576"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="25.459568" cy="10.467576"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector13pin" gorn="0.2.17" stroke="#f7bd13" cx="97.458359" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector12pin" gorn="0.2.18" stroke="#f7bd13" cx="90.259354" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector11pin" gorn="0.2.19" stroke="#f7bd13" cx="83.059464" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector10pin" gorn="0.2.20" stroke="#f7bd13" cx="75.859459" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector9pin" gorn="0.2.21" stroke="#f7bd13" cx="68.660461" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector8pin" gorn="0.2.22" stroke="#f7bd13" cx="61.458462" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector7pin" gorn="0.2.23" stroke="#f7bd13" cx="54.260468" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector6pin" gorn="0.2.24" stroke="#f7bd13" cx="47.05957" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector5pin" gorn="0.2.25" stroke="#f7bd13" cx="39.859566" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector4pin" gorn="0.2.26" stroke="#f7bd13" cx="32.660564" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector3pin" gorn="0.2.27" stroke="#f7bd13" cx="25.459568" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector2pin" gorn="0.2.28" stroke="#f7bd13" cx="18.259567" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector1pin" gorn="0.2.29" stroke="#f7bd13" cx="11.059666" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector0pin" gorn="0.2.30" stroke="#f7bd13" cx="3.8596456" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="39.866566" cy="10.468568"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector55pin" gorn="0.2.32" stroke="#f7bd13" cx="133.46201" cy="31.895773"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector56pin" gorn="0.2.33" stroke="#f7bd13" cx="133.45999" cy="39.095768"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="133.46201" cy="24.695791"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="133.45999" cy="10.295782"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="133.46201" cy="17.49477"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="169.46074" cy="3.0957704"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="162.25873" cy="3.0957704"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="155.06075" cy="3.0957704"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="147.85985" cy="3.0957704"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="140.65984" cy="3.0957704"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="133.46083" cy="3.0957704"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="126.25983" cy="3.0957704"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="119.05983" cy="3.0957704"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="111.85993" cy="3.0957704"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector33pin" gorn="0.2.46" stroke="#f7bd13" cx="104.65991" cy="3.0957704"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="169.46074" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="162.25873" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="155.06075" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="147.85985" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="140.65984" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="133.46083" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="126.25983" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="119.05983" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="111.85993" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="104.65991" cy="46.294781"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector57pin" gorn="0.2.57" stroke="#f7bd13" cx="50.961536" cy="37.573498"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector58pin" gorn="0.2.58" stroke="#f7bd13" cx="43.76054" cy="37.573498"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector59pin" gorn="0.2.59" stroke="#f7bd13" cx="36.560539" cy="37.573498"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector60pin" gorn="0.2.60" stroke="#f7bd13" cx="29.36064" cy="37.573498"/>
-            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector61pin" gorn="0.2.61" stroke="#f7bd13" cx="22.16062" cy="37.573498"/>
+    <g  id="copper1">
+        <g  id="copper0">
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector34pin" stroke="#f7bd13" cx="97.458359" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector35pin" stroke="#f7bd13" cx="90.259354" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector36pin" stroke="#f7bd13" cx="83.059464" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector114pin" stroke="#f7bd13" cx="75.859459" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector113pin" stroke="#f7bd13" cx="68.660461" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector112pin" stroke="#f7bd13" cx="61.458462" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector111pin" stroke="#f7bd13" cx="54.260468" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector110pin" stroke="#f7bd13" cx="47.05957" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector109pin" stroke="#f7bd13" cx="39.859566" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector108pin" stroke="#f7bd13" cx="32.660564" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector107pin" stroke="#f7bd13" cx="25.459568" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector106pin" stroke="#f7bd13" cx="18.259567" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector105pin" stroke="#f7bd13" cx="11.059666" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector104pin" stroke="#f7bd13" cx="3.8596456" cy="3.0957708"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector103pin" stroke="#f7bd13" cx="11.059666" cy="10.467576"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector102pin" stroke="#f7bd13" cx="32.666565" cy="10.467576"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector101pin" stroke="#f7bd13" cx="25.459568" cy="10.467576"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector13pin" stroke="#f7bd13" cx="97.458359" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector12pin" stroke="#f7bd13" cx="90.259354" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector11pin" stroke="#f7bd13" cx="83.059464" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector10pin" stroke="#f7bd13" cx="75.859459" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector9pin" stroke="#f7bd13" cx="68.660461" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector8pin" stroke="#f7bd13" cx="61.458462" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector7pin" stroke="#f7bd13" cx="54.260468" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector6pin" stroke="#f7bd13" cx="47.05957" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector5pin" stroke="#f7bd13" cx="39.859566" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector4pin" stroke="#f7bd13" cx="32.660564" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector3pin" stroke="#f7bd13" cx="25.459568" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector2pin" stroke="#f7bd13" cx="18.259567" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector1pin" stroke="#f7bd13" cx="11.059666" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector0pin" stroke="#f7bd13" cx="3.8596456" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector115pin" stroke="#f7bd13" cx="39.866566" cy="10.468568"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector55pin" stroke="#f7bd13" cx="133.46201" cy="31.895773"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector56pin" stroke="#f7bd13" cx="133.45999" cy="39.095768"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector116pin" stroke="#f7bd13" cx="133.46201" cy="24.695791"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector117pin" stroke="#f7bd13" cx="133.45999" cy="10.295782"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector118pin" stroke="#f7bd13" cx="133.46201" cy="17.49477"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector119pin" stroke="#f7bd13" cx="169.46074" cy="3.0957704"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector120pin" stroke="#f7bd13" cx="162.25873" cy="3.0957704"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector121pin" stroke="#f7bd13" cx="155.06075" cy="3.0957704"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector122pin" stroke="#f7bd13" cx="147.85985" cy="3.0957704"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector123pin" stroke="#f7bd13" cx="140.65984" cy="3.0957704"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector124pin" stroke="#f7bd13" cx="133.46083" cy="3.0957704"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector125pin" stroke="#f7bd13" cx="126.25983" cy="3.0957704"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector126pin" stroke="#f7bd13" cx="119.05983" cy="3.0957704"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector127pin" stroke="#f7bd13" cx="111.85993" cy="3.0957704"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector33pin" stroke="#f7bd13" cx="104.65991" cy="3.0957704"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector128pin" stroke="#f7bd13" cx="169.46074" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector129pin" stroke="#f7bd13" cx="162.25873" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector130pin" stroke="#f7bd13" cx="155.06075" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector131pin" stroke="#f7bd13" cx="147.85985" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector132pin" stroke="#f7bd13" cx="140.65984" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector133pin" stroke="#f7bd13" cx="133.46083" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector134pin" stroke="#f7bd13" cx="126.25983" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector135pin" stroke="#f7bd13" cx="119.05983" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector136pin" stroke="#f7bd13" cx="111.85993" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector137pin" stroke="#f7bd13" cx="104.65991" cy="46.294781"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector57pin" stroke="#f7bd13" cx="50.961536" cy="37.573498"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector58pin" stroke="#f7bd13" cx="43.76054" cy="37.573498"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector59pin" stroke="#f7bd13" cx="36.560539" cy="37.573498"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector60pin" stroke="#f7bd13" cx="29.36064" cy="37.573498"/>
+            <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector61pin" stroke="#f7bd13" cx="22.16062" cy="37.573498"/>
         </g>
 
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector19pin" gorn="0.3.0" stroke="#f7bd13" cx="97.458359" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector20pin" gorn="0.3.1" stroke="#f7bd13" cx="90.259354" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector21pin" gorn="0.3.2" stroke="#f7bd13" cx="83.059464" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector22pin" gorn="0.3.3" stroke="#f7bd13" cx="75.859459" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector23pin" gorn="0.3.4" stroke="#f7bd13" cx="68.660461" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector24pin" gorn="0.3.5" stroke="#f7bd13" cx="61.458462" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector25pin" gorn="0.3.6" stroke="#f7bd13" cx="54.260468" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector26pin" gorn="0.3.7" stroke="#f7bd13" cx="47.05957" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector27pin" gorn="0.3.8" stroke="#f7bd13" cx="39.859566" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector28pin" gorn="0.3.9" stroke="#f7bd13" cx="32.660564" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector29pin" gorn="0.3.10" stroke="#f7bd13" cx="25.459568" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector30pin" gorn="0.3.11" stroke="#f7bd13" cx="18.259567" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector31pin" gorn="0.3.12" stroke="#f7bd13" cx="11.059666" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector32pin" gorn="0.3.13" stroke="#f7bd13" cx="3.8596456" cy="3.0957708"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7545" gorn="0.3.14" stroke="#f7bd13" cx="11.059666" cy="10.467576"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7547" gorn="0.3.15" stroke="#f7bd13" cx="32.666565" cy="10.467576"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7549" gorn="0.3.16" stroke="#f7bd13" cx="25.459568" cy="10.467576"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7551" gorn="0.3.17" stroke="#f7bd13" cx="97.458359" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7553" gorn="0.3.18" stroke="#f7bd13" cx="90.259354" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7555" gorn="0.3.19" stroke="#f7bd13" cx="83.059464" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7557" gorn="0.3.20" stroke="#f7bd13" cx="75.859459" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7559" gorn="0.3.21" stroke="#f7bd13" cx="68.660461" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7561" gorn="0.3.22" stroke="#f7bd13" cx="61.458462" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7563" gorn="0.3.23" stroke="#f7bd13" cx="54.260468" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7565" gorn="0.3.24" stroke="#f7bd13" cx="47.05957" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7567" gorn="0.3.25" stroke="#f7bd13" cx="39.859566" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7569" gorn="0.3.26" stroke="#f7bd13" cx="32.660564" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7571" gorn="0.3.27" stroke="#f7bd13" cx="25.459568" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7573" gorn="0.3.28" stroke="#f7bd13" cx="18.259567" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7575" gorn="0.3.29" stroke="#f7bd13" cx="11.059666" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7577" gorn="0.3.30" stroke="#f7bd13" cx="3.8596456" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7579" gorn="0.3.31" stroke="#f7bd13" cx="39.866566" cy="10.468568"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector15pin" gorn="0.3.32" stroke="#f7bd13" cx="133.46201" cy="31.895773"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector14pin" gorn="0.3.33" stroke="#f7bd13" cx="133.45999" cy="39.095768"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector16pin" gorn="0.3.34" stroke="#f7bd13" cx="133.46201" cy="24.695791"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector18pin" gorn="0.3.35" stroke="#f7bd13" cx="133.45999" cy="10.295782"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector17pin" gorn="0.3.36" stroke="#f7bd13" cx="133.46201" cy="17.49477"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector46pin" gorn="0.3.37" stroke="#f7bd13" cx="169.46074" cy="3.0957704"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector47pin" gorn="0.3.38" stroke="#f7bd13" cx="162.25873" cy="3.0957704"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector48pin" gorn="0.3.39" stroke="#f7bd13" cx="155.06075" cy="3.0957704"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector49pin" gorn="0.3.40" stroke="#f7bd13" cx="147.85985" cy="3.0957704"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector50pin" gorn="0.3.41" stroke="#f7bd13" cx="140.65984" cy="3.0957704"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector51pin" gorn="0.3.42" stroke="#f7bd13" cx="133.46083" cy="3.0957704"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector52pin" gorn="0.3.43" stroke="#f7bd13" cx="126.25983" cy="3.0957704"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector53pin" gorn="0.3.44" stroke="#f7bd13" cx="119.05983" cy="3.0957704"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector54pin" gorn="0.3.45" stroke="#f7bd13" cx="111.85993" cy="3.0957704"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="104.65991" cy="3.0957704"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector45pin" gorn="0.3.47" stroke="#f7bd13" cx="169.46074" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector44pin" gorn="0.3.48" stroke="#f7bd13" cx="162.25873" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector43pin" gorn="0.3.49" stroke="#f7bd13" cx="155.06075" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector42pin" gorn="0.3.50" stroke="#f7bd13" cx="147.85985" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector41pin" gorn="0.3.51" stroke="#f7bd13" cx="140.65984" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector40pin" gorn="0.3.52" stroke="#f7bd13" cx="133.46083" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector39pin" gorn="0.3.53" stroke="#f7bd13" cx="126.25983" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector38pin" gorn="0.3.54" stroke="#f7bd13" cx="119.05983" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector37pin" gorn="0.3.55" stroke="#f7bd13" cx="111.85993" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" stroke="#f7bd13" cx="104.65991" cy="46.294781"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7631" gorn="0.3.57" stroke="#f7bd13" cx="50.961536" cy="37.573498"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7633" gorn="0.3.58" stroke="#f7bd13" cx="43.76054" cy="37.573498"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7635" gorn="0.3.59" stroke="#f7bd13" cx="36.560539" cy="37.573498"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7637" gorn="0.3.60" stroke="#f7bd13" cx="29.36064" cy="37.573498"/>
-        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="circle7639" gorn="0.3.61" stroke="#f7bd13" cx="22.16062" cy="37.573498"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector34pin" stroke="#f7bd13" cx="97.458359" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector35pin" stroke="#f7bd13" cx="90.259354" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector36pin" stroke="#f7bd13" cx="83.059464" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector114pin" stroke="#f7bd13" cx="75.859459" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector113pin" stroke="#f7bd13" cx="68.660461" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector112pin" stroke="#f7bd13" cx="61.458462" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector111pin" stroke="#f7bd13" cx="54.260468" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector110pin" stroke="#f7bd13" cx="47.05957" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector109pin" stroke="#f7bd13" cx="39.859566" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector108pin" stroke="#f7bd13" cx="32.660564" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector107pin" stroke="#f7bd13" cx="25.459568" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector106pin" stroke="#f7bd13" cx="18.259567" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector105pin" stroke="#f7bd13" cx="11.059666" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector104pin" stroke="#f7bd13" cx="3.8596456" cy="3.0957708"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector103pin" stroke="#f7bd13" cx="11.059666" cy="10.467576"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector102pin" stroke="#f7bd13" cx="32.666565" cy="10.467576"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector101pin" stroke="#f7bd13" cx="25.459568" cy="10.467576"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector13pin" stroke="#f7bd13" cx="97.458359" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector12pin" stroke="#f7bd13" cx="90.259354" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector11pin" stroke="#f7bd13" cx="83.059464" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector10pin" stroke="#f7bd13" cx="75.859459" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector9pin" stroke="#f7bd13" cx="68.660461" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector8pin" stroke="#f7bd13" cx="61.458462" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector7pin" stroke="#f7bd13" cx="54.260468" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector6pin" stroke="#f7bd13" cx="47.05957" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector5pin" stroke="#f7bd13" cx="39.859566" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector4pin" stroke="#f7bd13" cx="32.660564" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector3pin" stroke="#f7bd13" cx="25.459568" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector2pin" stroke="#f7bd13" cx="18.259567" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector1pin" stroke="#f7bd13" cx="11.059666" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector0pin" stroke="#f7bd13" cx="3.8596456" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector115pin" stroke="#f7bd13" cx="39.866566" cy="10.468568"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector55pin" stroke="#f7bd13" cx="133.46201" cy="31.895773"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector56pin" stroke="#f7bd13" cx="133.45999" cy="39.095768"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector116pin" stroke="#f7bd13" cx="133.46201" cy="24.695791"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector117pin" stroke="#f7bd13" cx="133.45999" cy="10.295782"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector118pin" stroke="#f7bd13" cx="133.46201" cy="17.49477"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector119pin" stroke="#f7bd13" cx="169.46074" cy="3.0957704"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector120pin" stroke="#f7bd13" cx="162.25873" cy="3.0957704"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector121pin" stroke="#f7bd13" cx="155.06075" cy="3.0957704"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector122pin" stroke="#f7bd13" cx="147.85985" cy="3.0957704"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector123pin" stroke="#f7bd13" cx="140.65984" cy="3.0957704"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector124pin" stroke="#f7bd13" cx="133.46083" cy="3.0957704"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector125pin" stroke="#f7bd13" cx="126.25983" cy="3.0957704"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector126pin" stroke="#f7bd13" cx="119.05983" cy="3.0957704"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector127pin" stroke="#f7bd13" cx="111.85993" cy="3.0957704"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector33pin" stroke="#f7bd13" cx="104.65991" cy="3.0957704"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector128pin" stroke="#f7bd13" cx="169.46074" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector129pin" stroke="#f7bd13" cx="162.25873" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector130pin" stroke="#f7bd13" cx="155.06075" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector131pin" stroke="#f7bd13" cx="147.85985" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector132pin" stroke="#f7bd13" cx="140.65984" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector133pin" stroke="#f7bd13" cx="133.46083" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector134pin" stroke="#f7bd13" cx="126.25983" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector135pin" stroke="#f7bd13" cx="119.05983" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector136pin" stroke="#f7bd13" cx="111.85993" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector137pin" stroke="#f7bd13" cx="104.65991" cy="46.294781"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector57pin" stroke="#f7bd13" cx="50.961536" cy="37.573498"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector58pin" stroke="#f7bd13" cx="43.76054" cy="37.573498"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector59pin" stroke="#f7bd13" cx="36.560539" cy="37.573498"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector60pin" stroke="#f7bd13" cx="29.36064" cy="37.573498"/>
+        <circle  fill="none" r="1.90799" stroke-width="0.99999702" id="connector61pin" stroke="#f7bd13" cx="22.16062" cy="37.573498"/>
     </g>
 </svg>
