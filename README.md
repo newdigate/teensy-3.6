@@ -1,6 +1,6 @@
 ####Teensy 3.6 audio display projects
 
-I'd like to explore whats posible with a teensy 3.6, the sgtl5000 audioboard, and an ILI9341 tft display board;
+I'd like to explore whats possible with a teensy 3.6, the sgtl5000 audioboard, and an ILI9341 tft display board;
 * https://www.pjrc.com/teensy/index.html
 * https://www.pjrc.com/store/teensy3_audio.html
 * https://www.pjrc.com/store/display_ili9341.html
