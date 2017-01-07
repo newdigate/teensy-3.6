@@ -1,8 +1,13 @@
-####Teensy 3.6 audio display project
+####Teensy 3.6 audio display projects
 
-I'd like to make a pcb to house my teensy 3.6, the sgtl5000 audioboard and an ILI9341 lcd display. 
+I'd like to explore whats posible with a teensy 3.6, the sgtl5000 audioboard, and an ILI9341 tft display board;
+* https://www.pjrc.com/teensy/index.html
+* https://www.pjrc.com/store/teensy3_audio.html
+* https://www.pjrc.com/store/display_ili9341.html
 
-Currently I've wired the three components together using breadboard and jumper wires. Although this does work intermittently, the digital audio connection (i2s) is very fragile and mostly results in heavy digital distorion. 
+I have a little bit of electrical engineering knowledge but I don't have alot of practical experience. I am a software engineer by trade and Im interested in audio applications of the teensy devices; 
+
+I've wired the three components together using breadboard and jumper wires. Although it does work intermittently, the digital i2s audio connection is very fragile and mostly results in heavy digital distorion. I've tried to rule out all the obvious potential faults - swapped teensy mainboards, swapped audioboards, swapped different versions of teensy devices... the problem seems to be with my breadboard, or the jumper wires. I need to check it out with a decent oscilliscope. So I've decided to build a custom PCB. I think this should solve my distorion issue.    
 
 Fritzing seems to be my easiest option to build a pcb. Maybe later I will check out oshpark.com
 
