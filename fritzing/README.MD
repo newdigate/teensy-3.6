@@ -3,7 +3,7 @@ A few months ago I started noticing some really nice diagrams (mostly arduino) w
 
 When I started this project a week or two ago, I thought it would be good to use Fritzing to build the PCB, since the custom parts for previous teensy models already exist in fritzing. My first step was to build svg files for breadboard view, schematic view and pcb view for fritzing. This was my first pcb project, ever. 
 
-Now that I've made a couple of iterations of my custom teensy 3.6 part in fritzing, I've learned a few things. 
+Now that I've made a couple of iterations of my first custom fritzing part, I've learned a few things. 
   * Fritzing makes really nice visual diagrams of breadboards.
   * It has a decent collection of components.
   * It is a great platform for teachers, students and enthusiasts. 
