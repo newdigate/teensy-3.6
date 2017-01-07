@@ -1,5 +1,5 @@
 ###### Fritzing
-A few months ago I started noticing some really nice diagrams (mostly arduino) flavor while searching for pull-up resistor solutions for arduino. I was curious about how people were creating these nice breadboard diagrams (I love a diagram). I discovered Fritzing this way. 
+A few months ago I started noticing some really nice diagrams (mostly arduino) while searching for pull-up resistor solutions for arduino. I was curious about how people were creating these nice breadboard diagrams (I love a diagram). I discovered Fritzing this way. 
 
 When I started this project a week or two ago, I thought it would be good to use Fritzing to build the PCB, since the custom parts for previous teensy models already exist in fritzing. My first step was to build svg files for breadboard view, schematic view and pcb view for fritzing. This was my first pcb project, ever. 
 
