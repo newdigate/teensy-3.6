@@ -8,7 +8,7 @@ Now that I've made a couple of iterations of my first custom fritzing part, I've
   * It has a decent collection of components.
   * It is a great platform for teachers, students and enthusiasts. 
   * Making a custom parts for the first time is pretty tough. But all the information is out there.  
-  * It crashes. Work must be saved frequently;    
+  * When creating custom parts, it crashes (esp. when you're learning fritzing svg integration). Work must be saved frequently;    
   * The documentation on making custom parts is a little out dated.
   * Autorouting is not usable (schematic, or pcb).
   * It is not practical to build a PCB in fritzing. Unfortunately. 
