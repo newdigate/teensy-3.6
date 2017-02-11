@@ -11,7 +11,6 @@ Now that I've made a couple of iterations of my first custom fritzing part, I've
   * It crashes. Work must be saved frequently;    
   * The documentation on making custom parts is a little out dated.
   * Autorouting is not usable (schematic, or pcb).
-  * There seems to be no way of making nets. (except for ground and vcc?)
   * It is not practical to build a PCB in fritzing. Unfortunately. 
   
 Having learnt these things I am glad there is a teensy 3.6 component for fritzing.
